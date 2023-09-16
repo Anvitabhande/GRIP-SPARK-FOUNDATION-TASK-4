@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="social-icons">
+    <a href="https://www.facebook.com/yourpage" target="_blank">
+      <img src="facebook-icon.png" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/yourpage" target="_blank">
+      <img src="twitter-icon.png" alt="Twitter">
+    </a>
+  </div>
+  </body>
+</html>
